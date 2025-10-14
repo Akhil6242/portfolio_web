@@ -466,12 +466,11 @@ function App() {
                     <span className="tech-tag">React</span>
                     <span className="tech-tag">CSS3</span>
                     <span className="tech-tag">JavaScript</span>
-                    <span className="tech-tag">Java</span>
-                    <span className="tech-tag">SpringBoot</span>
+                    <span className="tech-tag">HTML</span>
                   </div>
                   <div className="project-links">
-                    <a href="#" className="project-link demo">Live Demo</a>
-                    <a href="#" className="project-link github">GitHub</a>
+                    <a href="https://iakhilesh-yadav.vercel.app/" className="project-link demo" target="_blank" >Live Demo</a>
+                    <a href="https://github.com/Akhil6242/portfolio_web" className="project-link github" target="_blank" >GitHub</a>
                     <button 
                       className="project-link details"
                       onClick={() => setProjectDetails('portfolioWebsite')}
@@ -672,7 +671,7 @@ function App() {
                   <li>Dark mode with teal accent color</li>
                   <li>Responsive layout for all devices</li>
                   <li>Interactive project showcase with expandable view details</li>
-                  <li>Deployed on Netlify for fast and secure hosting</li>
+                  <li>Deployed on Vercel for fast and secure hosting</li>
                 </ul>
               </div>
               <div className="modal-section">
@@ -681,19 +680,19 @@ function App() {
                   <li>React (functional components + hooks)</li>
                   <li>CSS3 (variables, grid, flexbox)</li>
                   <li>JavaScript ES6+</li>
-                  <li>Netlify for deployment</li>
+                  <li>Vercel for deployment</li>
                 </ul>
               </div>
               <div className="modal-section">
                 <strong>Project Links:</strong>
                 <ul>
                   <li>
-                    <a href="https://your-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">
+                    <a href="https://iakhilesh-yadav.vercel.app/" target="_blank" rel="noopener noreferrer">
                       Live Demo
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/Akhil6242/portfolio" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/Akhil6242/portfolio_web" target="_blank" rel="noopener noreferrer">
                       GitHub Repository
                     </a>
                   </li>
