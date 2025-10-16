@@ -755,7 +755,7 @@ function App() {
                 <i className="fab fa-instagram"></i>
                 <span className="icon-tooltip">Instagram</span>
               </a>
-              <a href="/Akhil_Y.pdf"
+              <a href="https://drive.google.com/file/d/1EIPw99aATw58kXuirYTIkNG6dnyQfrLA/view?usp=sharing"
                 className="social-icon resume"
                 target="_blank" rel="noopener noreferrer">
                 <i className="far fa-file-alt"></i>
