@@ -112,9 +112,10 @@ function App() {
                     </p>
                     <div className="tech-stack-inline">
                       <span className="tech-tag">React</span>
-                      <span className="tech-tag">Python</span>
+                      <span className='tech-tag'>Spring Boot</span>
+                      <span className="tech-tag">Node.js</span>
                       <span className="tech-tag">OpenAI API</span>
-                      <span className="tech-tag">Flask</span>
+                      <span className="tech-tag">Google Cloud Run</span>
                     </div>
                   </div>
                 </div>
